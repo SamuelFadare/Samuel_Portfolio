@@ -1,2 +1,4 @@
 # samuel_portfolio2
-Compilation of Data Analytical projects
+
+
+https://github.com/SamuelFadare/Samuel_Portfolio
