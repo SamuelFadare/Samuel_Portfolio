@@ -1,6 +1,6 @@
 # Samuel Fadare Portfolio
 
-# [Project 1: A Data Science campaign with pandas and Principal Component Analysis (PCA)](https://github.com/SamuelFadare/Python_Projects/blob/main/A%20Data%20Science%20campaign%20with%20pandas%20and%20PCA%2019059671.ipynb)
+# [Python Project 1: A Data Science campaign with pandas and Principal Component Analysis (PCA)](https://github.com/SamuelFadare/Python_Projects/blob/main/A%20Data%20Science%20campaign%20with%20pandas%20and%20PCA%2019059671.ipynb)
 
 This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
 
@@ -17,7 +17,7 @@ This is one of the Python projects i did during my Masters program at the Univer
 * Covariance matrix was plot, and the features that are highly represented in the dataset was observed.
 
 
-# [Project 2: Practical Visualisation and Analytics](https://github.com/SamuelFadare/Python_Projects/blob/main/A%20Data%20Science%20campaign%20with%20pandas%20and%20PCA%2019059671.ipynb)
+# [Python Project 2: Practical Visualisation and Analytics](https://github.com/SamuelFadare/Python_Projects/blob/main/A%20Data%20Science%20campaign%20with%20pandas%20and%20PCA%2019059671.ipynb)
 
 This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
 
@@ -25,14 +25,14 @@ This is one of the Python projects i did during my Masters program at the Univer
 * The brain dataset was also used he "Brain Networks" dataset which contains the activity of 62 brain regions of 920 time points. Neuroscientists are interested in the correlation between the activities in different brain areas. This tells them which brain areas are potentially connected. Such insight allows conclusions about how the brain works, which is at the heart of neuroscience. This project analysed the correlation between those time series.
 
 
-# [Project 3: Modelling and predictions](https://github.com/SamuelFadare/Python_Projects/blob/main/Modelling%20and%20Predictions.ipynb)
+# [Python Project 3: Modelling and predictions](https://github.com/SamuelFadare/Python_Projects/blob/main/Modelling%20and%20Predictions.ipynb)
 
 This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
 
 * Practical tuning of classifiers using cross-validation and a hold-out test set. The Naive Bayes classifier is used, and it is trained in Scikit-learn. The standard one is the Gaussian variant, which assumes the data has a normal distribution. At the end of the project, the objective is to compare and select the best classifier with the highest accuracy.
 
 
-# [Project 4: Time Series Analysis](https://github.com/SamuelFadare/Python_Projects/blob/main/Time%20Series%20Analysis.ipynb)
+# [Python Project 4: Time Series Analysis](https://github.com/SamuelFadare/Python_Projects/blob/main/Time%20Series%20Analysis.ipynb)
 
 This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
 
@@ -41,7 +41,7 @@ This is one of the Python projects i did during my Masters program at the Univer
 * The blog post uses an older version of statsmodels, where ARIMA was implemented differently. 
 
 
-# [Project 5: First Deep Learning Project](https://github.com/SamuelFadare/Python_Projects/blob/main/FirstDeepLearningProject.ipynb)
+# [Python Project 5: First Deep Learning Project](https://github.com/SamuelFadare/Python_Projects/blob/main/FirstDeepLearningProject.ipynb)
 
 This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
 
@@ -49,7 +49,7 @@ This is one of the Python projects i did during my Masters program at the Univer
 * Prima indians diabetes datasets and iris datasets were used as a case study while prediction was done on the dataset.
 
 
-# [Project 6: Convolutional NEURAL Network](https://github.com/SamuelFadare/Python_Projects/blob/main/Convolutional_Neural_Network.ipynb)
+# [Python Project 6: Convolutional NEURAL Network](https://github.com/SamuelFadare/Python_Projects/blob/main/Convolutional_Neural_Network.ipynb)
 
 * This project demonstrates training a simple Convolution Neural Network (CNN) to classify CIFAR images with the use of Keras Sequential API. 
 * The CIFAR10 dataset contains 60,000 color images in 10 classes, with 6,000 images in each class. 
