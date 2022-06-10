@@ -29,4 +29,13 @@ This is one of the Python projects i did during my Masters program at the Univer
 
 This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
 
-* This project entails practical tuning of classifiers using cross-validation and a hold-out test set. The Naive Bayes classifier is used, and it is trained in Scikit-learn. The standard one is the Gaussian variant, which assumes the data has a normal distribution. At the end of the project, the objective is to compare and select the best classifier with the highest accuracy.
+* The project entails practical tuning of classifiers using cross-validation and a hold-out test set. The Naive Bayes classifier is used, and it is trained in Scikit-learn. The standard one is the Gaussian variant, which assumes the data has a normal distribution. At the end of the project, the objective is to compare and select the best classifier with the highest accuracy.
+
+
+# [Project 4: Time Series Analysis](https://github.com/SamuelFadare/Python_Projects/blob/main/Time%20Series%20Analysis.ipynb)
+
+This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
+
+* The project is based on a forecasting blog post, where the peculiarity of the project is to check the stationarity of a time series.
+* Forecasting was also done using this Time Series
+* The blog post uses an older version of statsmodels, where ARIMA was implemented differently. 
