@@ -23,3 +23,10 @@ This is one of the Python projects i did during my Masters program at the Univer
 
 * This entails practical visulaisation and analytics of the Iris dataset through the use of colormaps and colorbars.
 * The brain dataset was also used he "Brain Networks" dataset which contains the activity of 62 brain regions of 920 time points. Neuroscientists are interested in the correlation between the activities in different brain areas. This tells them which brain areas are potentially connected. Such insight allows conclusions about how the brain works, which is at the heart of neuroscience. This project analysed the correlation between those time series.
+
+
+# [Project 3: Modelling and predictions](https://github.com/SamuelFadare/Python_Projects/blob/main/Modelling%20and%20Predictions.ipynb)
+
+This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
+
+* This project entails practical tuning of classifiers using cross-validation and a hold-out test set. The Naive Bayes classifier is used, and it is trained in Scikit-learn. The standard one is the Gaussian variant, which assumes the data has a normal distribution. At the end of the project, the objective is to compare and select the best classifier with the highest accuracy.
