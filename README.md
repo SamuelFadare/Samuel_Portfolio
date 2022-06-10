@@ -39,3 +39,11 @@ This is one of the Python projects i did during my Masters program at the Univer
 * The project is based on a forecasting blog post, where the peculiarity of the project is to check the stationarity of a time series.
 * Forecasting was also done using this Time Series
 * The blog post uses an older version of statsmodels, where ARIMA was implemented differently. 
+
+
+# [Project 5: First Deep Learning Project](https://github.com/SamuelFadare/Python_Projects/blob/main/FirstDeepLearningProject.ipynb)
+
+This is one of the Python projects i did during my Masters program at the University of Herfordshire, and it covers:
+
+* This project contains the use of several libraries such as Keras (now built into TensorFlow), numpy, sklearn, and pydot for the purpose of Deep Learning. 
+* Prima indians diabetes datasets and iris datasets were used as a case study while prediction was done on the dataset.
