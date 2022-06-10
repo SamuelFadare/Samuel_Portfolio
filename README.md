@@ -15,3 +15,5 @@ This is one of the Python projects i did during my Masters program at the Univer
 * A pca was done on the raw data, and a scatter plot was produced.
 * A scree plot was thewn used to normalize and analyse how much variance is captured in the first two components.
 * Covariance matrix was plot, and the features that are highly represented in the dataset was observed.
+
+
