@@ -72,7 +72,14 @@ This is one of the Python projects i did during my Masters program at the Univer
 
 # [Data Visualisation Project 1: Adventure Works dashboard](https://github.com/SamuelFadare/Data_visualisation_Projects/blob/main/Adventure%20work%20visualisation.pdf)
 
-* An impactful dashboard visualisation for adbenture works 
+* An impactful dashboard visualisation for Adventure Works 
 * The purpose of this visualisation is to show the organisation's BudgetAttribute over spreadout months.
-* The purpose of this visualisation is to show the revenue generated from the organisation's categories which are Bikes, Acessories, and clothings.
+* The purpose of this visualisation is to show the revenue generated from the organisation's categories which are Bikes, Acessories, and Clothings.
 * The purpose of this visualisation is to visualise the organisation's revenue, BudgetAttribute and variance for all categories and subcategories.
+
+# [Data Visualisation Project 2: NBA playoff 2021/2022](https://github.com/SamuelFadare/Data_visualisation_Projects/blob/main/NBA%20DASHBOARD.pdf)
+
+* An impactful dashboard visualisation for NBA playoff 2021/2022 
+* The purpose of this visualisation is to show the stats of players in the NBA playoff standings for 2021/2022.
+* Several categories such as the top five three pointers, top five blocks, top five rebounds, assists, steals and also team cmparison was visualised in this project.
+
