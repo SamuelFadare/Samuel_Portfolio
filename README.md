@@ -89,3 +89,8 @@ This is one of the Python projects i did during my Masters program at the Univer
 # [SQL project 1: Data Defnintion and Data Manipulation Languages for the Employee database](https://github.com/SamuelFadare/SQL_Projects/blob/main/EMPLOYEE%20SCRIPT.sql)
 
 * The project contains several queries written in Structured Query Language (SQL) using Data Manipulation Language (DML) and Data Definition Language (DDL) for the purpose of accessing all information in the Employee database containing 8 tables with a relational STAR schema for the purpose of implementing query joins at suitable places.
+
+
+# [SQL project 2: Data Defnintion and Data Manipulation Languages for the sales database](https://github.com/SamuelFadare/SQL_Projects/blob/main/SALES%20SCRIPT.sql)
+
+* The project contains several queries written in Structured Query Language (SQL) using Data Manipulation Language (DML) and Data Definition Language (DDL) for the purpose of accessing all information in the Sales database.
