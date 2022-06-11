@@ -56,3 +56,16 @@ This is one of the Python projects i did during my Masters program at the Univer
 * The dataset is divided into 50,000 training images and 10,000 testing images. 
 * The classes are mutually exclusive and there is no overlap between them. 
 * The sizes of the test and training set is verified, before compiling and training the model.
+
+
+
+# [Python Project 7: Completing a case study](https://github.com/SamuelFadare/Python_Projects/blob/main/Completed_Case_Study.ipynb)
+
+* This project analyses a case study 
+* Pandas, numpy, tensorflow, and keras libraries were used for normalizing the training and test data, and modifying input parameters using the protodashEXPLORER 
+* Heloc dataset was used for this analysis  
+* An histogram was created to observe the distribution of values 
+* The test set accuracy waas computed.
+* Trained neural networks were used to complete the point
+* Feature similarity was computed for each data point
+
