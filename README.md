@@ -69,3 +69,10 @@ This is one of the Python projects i did during my Masters program at the Univer
 * Trained neural networks were used to complete the point
 * Feature similarity was computed for each data point
 
+
+# [Data Visualisation Project 1: Adventure Works dashboard](https://github.com/SamuelFadare/Data_visualisation_Projects/blob/main/Adventure%20work%20visualisation.pdf)
+
+* An impactful dashboard visualisation for adbenture works 
+* The purpose of this visualisation is to show the organisation's BudgetAttribute over spreadout months.
+* The purpose of this visualisation is to show the revenue generated from the organisation's categories which are Bikes, Acessories, and clothings.
+* The purpose of this visualisation is to visualise the organisation's revenue, BudgetAttribute and variance for all categories and subcategories.
